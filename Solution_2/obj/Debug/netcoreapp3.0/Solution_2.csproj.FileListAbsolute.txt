@@ -1,0 +1,14 @@
+C:\Users\stevenmessina\Source\repos\Solis\Solution_2\bin\Debug\netcoreapp3.0\Solution_2.exe
+C:\Users\stevenmessina\Source\repos\Solis\Solution_2\bin\Debug\netcoreapp3.0\Solution_2.deps.json
+C:\Users\stevenmessina\Source\repos\Solis\Solution_2\bin\Debug\netcoreapp3.0\Solution_2.runtimeconfig.json
+C:\Users\stevenmessina\Source\repos\Solis\Solution_2\bin\Debug\netcoreapp3.0\Solution_2.runtimeconfig.dev.json
+C:\Users\stevenmessina\Source\repos\Solis\Solution_2\bin\Debug\netcoreapp3.0\Solution_2.dll
+C:\Users\stevenmessina\Source\repos\Solis\Solution_2\bin\Debug\netcoreapp3.0\Solution_2.pdb
+C:\Users\stevenmessina\Source\repos\Solis\Solution_2\obj\Debug\netcoreapp3.0\Solution_2.csprojAssemblyReference.cache
+C:\Users\stevenmessina\Source\repos\Solis\Solution_2\obj\Debug\netcoreapp3.0\Solution_2.AssemblyInfoInputs.cache
+C:\Users\stevenmessina\Source\repos\Solis\Solution_2\obj\Debug\netcoreapp3.0\Solution_2.AssemblyInfo.cs
+C:\Users\stevenmessina\Source\repos\Solis\Solution_2\obj\Debug\netcoreapp3.0\Solution_2.dll
+C:\Users\stevenmessina\Source\repos\Solis\Solution_2\obj\Debug\netcoreapp3.0\Solution_2.pdb
+C:\Users\stevenmessina\Source\repos\Solis\Solution_2\obj\Debug\netcoreapp3.0\Solution_2.Properties.Resources.resources
+C:\Users\stevenmessina\Source\repos\Solis\Solution_2\obj\Debug\netcoreapp3.0\Solution_2.csproj.GenerateResource.cache
+C:\Users\stevenmessina\Source\repos\Solis\Solution_2\bin\Debug\netcoreapp3.0\XMLFile.xml
